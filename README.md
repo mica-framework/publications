@@ -1,6 +1,6 @@
 # Publications
 
-These are publications, reports and thesis which depend on this framework.
+These are publications, reports and thesis which have been written based on this framework.
 
 
 ## Content
